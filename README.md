@@ -1,2 +1,2 @@
-# CartorioEBAC
-Projeto do curso de TI
+# Cartorio EBAC 👇
+<p>Projeto de um sistema simples de cartório desenvolvido em C. Este programa oferece funcionalidades básicas de registro, consulta e exclusão de informações de usuários. Ele inclui recursos para registrar informações como CPF, nome, sobrenome e cargo. O sistema é acessado através de um login de administrador, permitindo operações básicas de manutenção de dados. Desenvolvido como parte do aprendizado em linguagem C para a disciplina de programação</p>
